@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+#logo {color:red;}
+.left {
+  float: left;
+  width: 50%;
+}
+.right {
+  float: right;
+  width: 50%;
+}
+main div {
+  border: 5px solid black;
+}
+main img {
+  width: 100%;
+  display: block;
+}
+.clear {
+  overflow: auto;
+}
